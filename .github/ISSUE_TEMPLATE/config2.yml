@@ -1,6 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Add new ToDo
-    about: made by config.yml
-    # edit {username} and {repo} for your environment
-    url: https://github.com/hyokotsuka/ToDo/issues/new?template=pitch.md&projects=hyokotsuka%2FToDo%2F1&labels=ToDo
